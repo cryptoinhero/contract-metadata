@@ -3602,6 +3602,20 @@
     "symbol": "PDOG",
     "decimals": 18
   },
+  "0x5067c6e9E6c443372f2E62946273ABbF3Cc2f2B3": {
+    "name": "Fibo Token",
+    "logo": "fibo.png",
+    "erc20": true,
+    "symbol": "FIBO",
+    "decimals": 9
+  },
+  "0xa30baba694b8fc3524c46edc5af295f55381dc60": {
+    "name": "Boorio",
+    "logo": "orio.png",
+    "erc20": true,
+    "symbol": "ORIO",
+    "decimals": 18
+  },
   "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80": {
     "name": "Swash Token",
     "logo": "swash.svg",
